@@ -1,0 +1,145 @@
+.useLc{
+	height: 62px;
+	width: 100%;
+	padding: 20px 0;
+	background: #f0f0f0;
+	
+}
+.useLc .useLc_body{
+	width: 1000px;
+	margin: 0 auto;
+	height: 62px;
+	border-left: 6px solid #FE5431;
+	
+}
+.useLc .useLc_body .user1 {
+	float: left;
+	width: 160px;
+}
+.useLc .useLc_body .user1 .pp{
+	border-bottom: 2px solid #FE5431;
+	width: 60px;
+}
+.useLc .useLc_body .user1 p{
+	
+	font-size: 22px;
+	font-weight: normal;
+	padding-left: 10px;
+}
+.useLc .useLc_body .user1 img {
+	padding-left: 20px;
+}
+.useLc .useLc_body .user1 .p1{
+	font-size: 14px;
+	color: #666;
+	margin-top: 10px;
+}
+.userLv{
+	width: 100%;
+	
+}
+.userLv .userLv_body{
+	width: 1000px;
+	background: blue;
+	margin: 0 auto;
+}
+.userLv .userLv_body .userLv_left{
+	width: 700px;
+	
+	float: left;
+}
+.userLv .userLv_body .userLv_left .left_1,.userLv .userLv_body .userLv_right .left_1{
+	border-left: 6px solid #FE5431;
+	margin-top: 20px;
+}
+.userLv .userLv_body .userLv_left .left_1 h1,.userLv .userLv_body .userLv_right .left_1 h1{
+	font-size: 22px;
+	font-weight: normal;
+	margin-left: 10px;
+}
+.userLv .userLv_body .userLv_left .hh{
+	margin: 20px 0;
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(255, 0, 0);
+}
+.userLv .userLv_body .userLv_left .pp2{
+	margin: 20px 0;
+	line-height: 20px;
+}
+.userLv .userLv_body .userLv_left .pp3{
+	margin: 20px 0;
+}
+.userLv .userLv_body .userLv_left .pp4{
+	color: #0177A7;
+}
+.userLv .userLv_body .userLv_left .pp5 h1{
+	color: #FF0000;
+	font-size: 20px;
+}
+.userLv .userLv_body .userLv_left .pp5 p{
+	margin: 10px 0;
+}
+.userLv .userLv_body .userLv_left .title1{
+	
+}
+.userLv .userLv_body .userLv_left .title1 h1{
+	color: rgb(0, 112, 192);
+	font-size: 20px;
+	font-weight: bold;
+	margin: 28px 0;
+}
+.userLv .userLv_body .userLv_left .title1 p{
+	margin-bottom: 28px;
+}
+.userLv .userLv_body .userLv_right{
+	width: 280px;
+	height: 2330px;
+	
+	float: left;
+	margin-left: 20px;
+}
+.userLv .userLv_body .userLv_right .p2{
+	color: #FE5431;
+	font-size: 25px;
+	font-weight: normal;
+	margin: 20px 0;
+}
+.userLv .userLv_body .userLv_right .a1{
+	margin-top: 20px;
+	
+}
+.userLv .userLv_body .userLv_right .a1 .btn{
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	background: red;
+	height: 48px;
+	line-height: 48px;
+	font-size: 18px;
+	border-radius: 5px;
+	
+}
+.userLv .userLv_body .userLv_right .p3{
+	text-align: center;
+	margin-top: 10px;
+	color: #666;
+	font-size: 14px;
+}
+.userLv .userLv_body .userLv_right .ig img{
+	margin: 20px 0;
+}
+.userLv .userLv_body .userLv_right .dd1{
+	margin: 10px 0;
+	
+}
+.userLv .userLv_body .userLv_right .dd1 h1{
+	font-size: 16px;
+	font-weight: bold;
+}
+.userLv .userLv_body .userLv_right .dd1 p{
+	margin: 10px 0;
+	line-height: 25px;
+	color: #a3a3a3;
+	font-size: 14px;
+}

@@ -1,0 +1,121 @@
+.nav{
+	width: 100%;
+	
+	
+}
+.nav{
+	width: 1000px;
+	margin: 0 auto;
+	
+}
+.nav h1{
+	margin:20px 0;
+	text-align: center;
+	height: 80px;
+	line-height: 80px;
+	font-size: 40px;
+	font-weight: normal;
+	
+}
+.nav .kw_nav{
+	width: 1000px;
+	height: 50px;
+	background: #fff;
+	line-height: 50px;
+	text-align: center;
+	font-size: 18px;
+
+	margin-bottom: 10px;
+	
+}
+.nav .kw_nav a{
+	display: inline-block;
+	width: 165px;
+	text-align: center;
+	color: #666;
+}
+.nav .kw_nav .nav_on{
+	color: #fe5431;
+	border-bottom: 4px solid #fe5431 ;
+}
+.nav .kw_nav a:focus{
+	color: #fe5431;
+	border-bottom: 4px solid #fe5431 ;
+}
+/*主体begin*/
+.kw_con{
+	width: 100%;
+	background:#F7F7F7;
+	padding-top: 30px;
+}
+.kw_con .kw_body{
+		
+}
+.kw_con .kw_body .life0{
+	width: 1000px;
+	background: #FFF;	
+	margin: 0 auto;
+	border: 1px solid #F7F7F7;
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+.kw_con .kw_body ul li{
+	
+}
+.kw_con .kw_body ul li h2{
+	height: 28px;
+	width: 1000px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: normal;
+	padding-left: 20px;
+	line-height: 28px;
+	border-left: 5px solid #FE5341;
+}
+.kw_con .kw_body .life{
+	height: 270px;
+	padding: 0 30px;
+	margin: 10px 0;
+	border-bottom: 1px dotted #ccc;
+}
+.kw_con .kw_body .life .list{
+	margin-top: 10px;
+	float: left;
+	width: 155px;
+	text-align: center;
+	margin-right: 1px;
+}
+.kw_con .kw_body .life .list .info{
+	color: #999;
+	text-align: center
+}
+.kw_con .kw_body .life2{
+	height: 120px;
+	padding: 0 40px;
+}
+.kw_con .kw_body .life2 .list{
+	float: left;
+	width: 150px;
+	margin-top: 10px;
+}
+.kw_con .kw_body .life2 .list .info{
+	color: #999;
+	text-align: center}
+/*主体end*/
+.load_more{
+	text-align: center;
+	font-size: 16px;
+	color: #FE5341;
+	background: #f7f7f7;
+	padding: 20px 0 30px;
+	
+}
+.load_more a{
+		color: #FE5341;
+}
+.load_more span{
+	display: inline-block;
+	width: 16px;
+	height: 8px;
+	background: url(../../img/more.png) no-repeat;
+}
